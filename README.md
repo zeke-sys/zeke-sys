@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeke-sys
 - 👀 I’m interested in Software Development and Cybersecurity.
-- 🌱 I’m currently learning C++/Back-End Development.
+- 🌱 I’m currently learning C++ and Python/Back-End Development.
 - 💞️ I’m looking to collaborate on fun projects - especially those requiring some experience with C++, Python, Javascript, Java, CSS, or React.
 - 📫 How to reach me - Find me on LinkedIn (www.linkedin.com/in/ezechiel-isaac-589149115)
 - 😄 Pronouns: He/Him
